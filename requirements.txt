@@ -6,3 +6,4 @@ scikit-learn==1.7.1
 umap-learn
 bioinfokit
 PyComplexHeatmap
+gprofiler-official
