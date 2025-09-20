@@ -7,3 +7,4 @@ umap-learn
 bioinfokit
 PyComplexHeatmap
 gprofiler-official
+mygene
