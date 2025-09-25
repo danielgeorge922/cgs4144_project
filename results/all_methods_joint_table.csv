@@ -1,0 +1,275 @@
+Term,m1_p,m2_q,m2_p,m3_p,m4_p,m4_q,m4_logFC,n_methods_sig,n_methods_tested
+ATP Metabolic Process (GO:0046034),,0.0898563530980608,0.0449281765490304,,,,,0,1
+Actin Binding (GO:0003779),,,,,4.69321557008217e-12,3.299330545767765e-09,0.0404152312828516,1,1
+Actin Filament Organization (GO:0007015),,0.0078629732870072,0.000941918675006,,,,,1,1
+Actin-Mediated Cell Contraction (GO:0070252),,0.0464136420038519,0.0120868859385031,,,,,1,1
+Actin-Myosin Filament Sliding (GO:0033275),,1.1490068114499557e-05,4.787528381041481e-07,,,,,1,1
+Actinin Binding (GO:0042805),,,,,8.855326214758736e-05,0.0041177008264445,0.0993918885083203,1,1
+Actomyosin Structure Organization (GO:0031032),,2.3467057149630634e-06,5.6009729187693786e-08,,,,,1,1
+Adult Heart Development (GO:0007512),,0.0439184593468579,0.0107508728609495,,,,,1,1
+Alpha-Actinin Binding (GO:0051393),,,,,1.7606134178957306e-06,0.0001325398012733,0.1291109453945624,1,1
+Apoptotic Cell Clearance (GO:0043277),,0.0810403707657714,0.0371435032676452,,,,,0,1
+Bone Development (GO:0060348),,0.1026989090420224,0.0577681363361376,,,,,0,1
+Cadherin Binding (GO:0045296),,,,,1.1541987449524162e-10,4.0570085885077435e-08,0.0305070413506043,1,1
+Calcium-Mediated Signaling (GO:0019722),,0.1439278065814034,0.108695478928664,,,,,0,1
+Cardiac Cell Development (GO:0055006),,0.0020239072221183,0.0001581177517279,,,,,1,1
+Cardiac Muscle Cell Development (GO:0055013),,0.0056498160751744,0.0005590963824391,,,,,1,1
+Cardiac Muscle Cell Differentiation (GO:0055007),,0.0057918910671492,0.0006033219861613,,,,,1,1
+Cardiac Muscle Contraction (GO:0060048),,0.0002033661336365,1.1651184739594732e-05,,,,,1,1
+Cardiac Muscle Hypertrophy (GO:0003300),,0.0410754350669526,0.0094131205361766,,,,,1,1
+Cardiac Muscle Tissue Development (GO:0048738),,0.1124197475052216,0.067920264117738,,,,,0,1
+Cardiac Muscle Tissue Morphogenesis (GO:0055008),,0.0001846322225742,9.616261592407e-06,,,,,1,1
+Cardiac Myofibril Assembly (GO:0055003),,0.0021875021027029,0.0001822918418919,,,,,1,1
+Cardiac Ventricle Morphogenesis (GO:0003208),,0.0107933378004226,0.0014615978271405,,,,,1,1
+Cell Adhesion Mediator Activity (GO:0098631),,,,,5.102412655870763e-07,5.124280138681638e-05,0.1030593585078488,1,1
+Cell-Cell Adhesion Mediator Activity (GO:0098632),,,,,1.0350520141293143e-07,1.212735943221513e-05,0.0736747254336755,1,1
+Cellular Hyperosmotic Response (GO:0071474),,0.0378082039764889,0.0080736268908127,,,,,1,1
+Cellular Response To Alkaloid (GO:0071312),,0.0614200738522344,0.0227126314766075,,,,,0,1
+Cellular Response To Catecholamine Stimulus (GO:0071870),,0.063214937924063,0.0253518240632961,,,,,0,1
+Cellular Response To Copper Ion (GO:0071280),,0.06400522928675,0.0266688455361458,,,,,0,1
+Cellular Response To Decreased Oxygen Levels (GO:0036294),,0.1337898057987882,0.0940709572022729,,,,,0,1
+Cellular Response To Glucocorticoid Stimulus (GO:0071385),,0.0614200738522344,0.0227126314766075,,,,,0,1
+Cellular Response To Hydrogen Peroxide (GO:0070301),,0.0898563530980608,0.0449281765490304,,,,,0,1
+Cellular Response To Hypoxia (GO:0071456),,0.1337898057987882,0.0928418711410691,,,,,0,1
+Cellular Response To Inorganic Substance (GO:0071241),,0.0632103103735143,0.0240330867565966,,,,,0,1
+Cellular Response To Ketone (GO:1901655),,0.1026989090420224,0.0577681363361376,,,,,0,1
+Cellular Response To Lipid (GO:0071396),,0.2889591225217522,0.2663841910747404,,,,,0,1
+Cellular Response To Mechanical Stimulus (GO:0071260),,0.1068020186624909,0.0628574380669868,,,,,0,1
+Cellular Response To Metal Ion (GO:0071248),,0.1994186288504695,0.1672208294006541,,,,,0,1
+Cellular Response To Monoamine Stimulus (GO:0071868),,0.0378082039764889,0.0080736268908127,,,,,1,1
+Cellular Response To Organic Cyclic Compound (GO:0071407),,0.0609762558889934,0.0177847413009564,,,,,0,1
+Cellular Response To Organonitrogen Compound (GO:0071417),,0.1674516145421946,0.1325658615125707,,,,,0,1
+Cellular Response To Oxygen-Containing Compound (GO:1901701),,0.1419821564993598,0.1035286557807832,,,,,0,1
+Cellular Response To Reactive Oxygen Species (GO:0034614),,0.1337898057987882,0.0940709572022729,,,,,0,1
+Cellular Response To Retinoic Acid (GO:0071300),,0.0995699176419517,0.0539337053893905,,,,,0,1
+Cellular Response To Salt (GO:1902075),,0.1711362038827104,0.1372654968642573,,,,,0,1
+Cellular Response To UV (GO:0034644),,0.1400797015826417,0.1014118672915999,,,,,0,1
+Cellular Response To cAMP (GO:0071320),,0.0885431651779899,0.0410434463585474,,,,,0,1
+Chromosome Condensation (GO:0030261),,0.0893328399434028,0.0423400439315086,,,,,0,1
+Cyclic-Nucleotide-Mediated Signaling (GO:0019935),,0.0981478386237972,0.0526522259283912,,,,,0,1
+Defense Response To Bacterium (GO:0042742),,0.2685129842037266,0.2419413868085662,,,,,0,1
+Defense Response To Gram-negative Bacterium (GO:0050829),,0.1362696287966648,0.0965243203976375,,,,,0,1
+Detection Of Mechanical Stimulus (GO:0050982),,0.0632103103735143,0.0240330867565966,,,,,0,1
+Detection Of Muscle Stretch (GO:0035995),,0.0378082039764889,0.0080736268908127,,,,,1,1
+Dopamine Transport (GO:0015872),,0.0464136420038519,0.0120868859385031,,,,,1,1
+Elastic Fiber Assembly (GO:0048251),,0.0378082039764889,0.0080736268908127,,,,,1,1
+Endometrium,,,,0.011699197981,,,,1,1
+Endometrium; smooth muscle cells[≥Low],,,,0.0010323344702237,,,,1,1
+Endometrium; smooth muscle cells[≥Medium],,,,0.0154266996389226,,,,1,1
+Endoplasmic Reticulum Calcium Ion Homeostasis (GO:0032469),,0.06400522928675,0.0266688455361458,,,,,0,1
+Extracellular Matrix Assembly (GO:0085029),,0.0614200738522344,0.0227126314766075,,,,,0,1
+Fibroblast Growth Factor Binding (GO:0017134),,,,,0.0001537050491303,0.0054027324769334,0.1048751857463321,1,1
+GTPase Activator Activity (GO:0005096),,,,,0.0001153568276656,0.0045053249916098,0.0191133414386487,1,1
+GTPase Regulator Activity (GO:0030695),,,,,9.274966075133857e-08,1.212735943221513e-05,0.0196309100281479,1,1
+Gene Expression (GO:0010467),,0.1033990370682824,0.0601195120684935,,,,,0,1
+Heart Contraction (GO:0060047),,0.0003616173348332,2.260108342707793e-05,,,,,1,1
+Heart Development (GO:0007507),,0.2366270939422355,0.207048707199456,,,,,0,1
+Heart Morphogenesis (GO:0003007),,0.1217046136848922,0.076716900477825,,,,,0,1
+High Voltage-Gated Calcium Channel Activity (GO:0008331),,,,,2.783607228073467e-05,0.0015052891394889,0.1127231884973283,1,1
+Inorganic Cation Transmembrane Transport (GO:0098662),,0.3344364790580522,0.3205016257639667,,,,,0,1
+Macromolecule Biosynthetic Process (GO:0009059),,0.2483714567005305,0.219912227286928,,,,,0,1
+Metal Ion Transport (GO:0030001),,0.2366270939422355,0.207048707199456,,,,,0,1
+Mitochondrial Calcium Ion Homeostasis (GO:0051560),,0.0663328078613664,0.0279841533165139,,,,,0,1
+Mitotic Chromosome Condensation (GO:0007076),,0.0614200738522344,0.020066558464378,,,,,0,1
+Mitotic Sister Chromatid Segregation (GO:0000070),,0.1729314400225475,0.1396061104348691,,,,,0,1
+Monoatomic Ion Gated Channel Activity (GO:0022839),,,,,9.836817419726652e-05,0.0041177008264445,0.0579193304292618,1,1
+Multicellular Organismal-Level Water Homeostasis (GO:0050891),,0.063214937924063,0.0253518240632961,,,,,0,1
+Muscle Alpha-Actinin Binding (GO:0051371),,,,,3.760582171852559e-05,0.0018883494762945,0.1667228309119368,1,1
+Muscle Cell Development (GO:0055001),,0.0077624611025596,0.0008490191830924,,,,,1,1
+Muscle Contraction (GO:0006936),,4.902313531794013e-06,1.531972978685629e-07,,,,,1,1
+Muscle Filament Sliding (GO:0030049),,0.0010758948082223,7.845066309954509e-05,,,,,1,1
+Muscle Organ Development (GO:0007517),,0.1207442411915374,0.0754651507447108,,,,,0,1
+Muscle Tissue Development (GO:0060537),,0.0936916815433891,0.0487977508038484,,,,,0,1
+Muscle Tissue Morphogenesis (GO:0060415),,0.0026622356520396,0.000235718781691,,,,,1,1
+Myofibril Assembly (GO:0030239),,1.133818865425095e-05,4.1337146135289924e-07,,,,,1,1
+Negative Regulation Of ATP-dependent Activity (GO:0032780),,0.0614200738522344,0.0213904560937906,,,,,0,1
+Negative Regulation Of Angiogenesis (GO:0016525),,0.1445311216562075,0.1099038737594078,,,,,0,1
+Negative Regulation Of Apoptotic Process (GO:0043066),,0.493684915043915,0.482684191394631,,,,,0,1
+Negative Regulation Of Blood Vessel Morphogenesis (GO:2000181),,0.1376991792415577,0.0989712850798696,,,,,0,1
+Negative Regulation Of Calcineurin-Mediated Signaling (GO:0106057),,0.052457609799225,0.014753702756032,,,,,0,1
+Negative Regulation Of Canonical Wnt Signaling Pathway (GO:0090090),,0.1761299310120975,0.1431055689473292,,,,,0,1
+Negative Regulation Of Cold-Induced Thermogenesis (GO:0120163),,0.1033990370682824,0.0603161049564981,,,,,0,1
+Negative Regulation Of Cysteine-Type Endopeptidase Activity (GO:2000117),,0.1125670768781666,0.0691818493313732,,,,,0,1
+Negative Regulation Of Cysteine-Type Endopeptidase Activity Involved In Apoptotic Process (GO:0043154),,0.1080010467186564,0.0641256214892022,,,,,0,1
+Negative Regulation Of Endopeptidase Activity (GO:0010951),,0.1311597763722248,0.0854335651408865,,,,,0,1
+Negative Regulation Of Endoplasmic Reticulum Calcium Ion Concentration (GO:0032471),,0.0369319673888456,0.0067323898885916,,,,,1,1
+Negative Regulation Of Metabolic Process (GO:0009892),,0.1125670768781666,0.0691818493313732,,,,,0,1
+Negative Regulation Of Multicellular Organismal Process (GO:0051241),,0.2905336164886264,0.2693856416962386,,,,,0,1
+Negative Regulation Of Peptidase Activity (GO:0010466),,0.1217046136848922,0.0779670181418841,,,,,0,1
+Negative Regulation Of Programmed Cell Death (GO:0043069),,0.4206074242751222,0.405272778598425,,,,,0,1
+Negative Regulation Of Smooth Muscle Cell Proliferation (GO:0048662),,0.0936916815433891,0.0487977508038484,,,,,0,1
+Negative Regulation Of Vascular Associated Smooth Muscle Cell Proliferation (GO:1904706),,0.0614200738522344,0.0227126314766075,,,,,0,1
+Negative Regulation Of Wnt Signaling Pathway (GO:0030178),,0.2048776123280221,0.1728654854017687,,,,,0,1
+Negative Regulation Of calcineurin-NFAT Signaling Cascade (GO:0070885),,0.052457609799225,0.014753702756032,,,,,0,1
+Nitrogen Compound Transport (GO:0071705),,0.229428212893536,0.198359809064203,,,,,0,1
+Odontogenesis (GO:0042476),,0.096694729540088,0.0513690750681718,,,,,0,1
+Organic Substance Transport (GO:0071702),,0.2666025493559615,0.2388314504647155,,,,,0,1
+Peptide Biosynthetic Process (GO:0043043),,0.2244454019029342,0.1928827672603341,,,,,0,1
+Peptide Cross-Linking (GO:0018149),,0.0809565328079399,0.0358401317118484,,,,,0,1
+Phagocytosis (GO:0006909),,0.1326808869071022,0.0891449708907092,,,,,0,1
+Phospholipase C-activating G Protein-Coupled Receptor Signaling Pathway (GO:0007200),,0.1439278065814034,0.1062739482697551,,,,,0,1
+Platelet-Derived Growth Factor Receptor Binding (GO:0005161),,,,,8.980102423528282e-06,0.0005739101821582,0.2588008863791482,1,1
+Positive Regulation Of ATP-dependent Activity (GO:0032781),,0.0096847248856953,0.0012610318861582,,,,,1,1
+Positive Regulation Of Activated T Cell Proliferation (GO:0042104),,0.063214937924063,0.0253518240632961,,,,,0,1
+Positive Regulation Of Angiogenesis (GO:0045766),,0.1798129060060123,0.1489075627862289,,,,,0,1
+Positive Regulation Of Apoptotic Process (GO:0043065),,0.3224597048208841,0.3073444061574051,,,,,0,1
+Positive Regulation Of Cell Adhesion (GO:0045785),,0.1466983606361095,0.1123159323620213,,,,,0,1
+Positive Regulation Of Cell Development (GO:0010720),,0.0081275425812552,0.0010159428226569,,,,,1,1
+Positive Regulation Of Cell Population Proliferation (GO:0008284),,0.493684915043915,0.4833998126471668,,,,,0,1
+Positive Regulation Of Cellular Process (GO:0048522),,0.5630421355912727,0.5571771133455302,,,,,0,1
+Positive Regulation Of Fibroblast Proliferation (GO:0048146),,0.0810403707657714,0.0371435032676452,,,,,0,1
+Positive Regulation Of GTPase Activity (GO:0043547),,0.2905336164886264,0.2723752654580872,,,,,0,1
+Positive Regulation Of Gene Expression (GO:0010628),,0.1711362038827104,0.1363754191377454,,,,,0,1
+Positive Regulation Of Hydrolase Activity (GO:0051345),,0.2413441572685875,0.2124331384291213,,,,,0,1
+Positive Regulation Of Intracellular Signal Transduction (GO:1902533),,0.5207466017176843,0.5126099360658455,,,,,0,1
+Positive Regulation Of Macromolecule Metabolic Process (GO:0010604),,0.1311597763722248,0.0860736032442725,,,,,0,1
+Positive Regulation Of Mitochondrial Calcium Ion Concentration (GO:0051561),,0.0439184593468579,0.0107508728609495,,,,,1,1
+Positive Regulation Of Monooxygenase Activity (GO:0032770),,0.0789372831100678,0.0345350613606546,,,,,0,1
+Positive Regulation Of Nervous System Development (GO:0051962),,0.014113767814721,0.0019847485989451,,,,,1,1
+Positive Regulation Of Neurogenesis (GO:0050769),,0.0275003202010059,0.0045833867001676,,,,,1,1
+Positive Regulation Of Nitric-Oxide Synthase Activity (GO:0051000),,0.0614200738522344,0.0227126314766075,,,,,0,1
+Positive Regulation Of Programmed Cell Death (GO:0043068),,0.3004500398669547,0.2832367563329104,,,,,0,1
+Positive Regulation Of Protein Secretion (GO:0050714),,0.136990740868963,0.0977486015575413,,,,,0,1
+Positive Regulation Of Protein Transport (GO:0051222),,0.1334826535304899,0.0903788799946025,,,,,0,1
+Positive Regulation Of Secretion (GO:0051047),,0.0614200738522344,0.020066558464378,,,,,0,1
+Positive Regulation Of Secretion By Cell (GO:1903532),,0.1337898057987882,0.0940709572022729,,,,,0,1
+Positive Regulation Of Small GTPase Mediated Signal Transduction (GO:0051057),,0.0614200738522344,0.0227126314766075,,,,,0,1
+Positive Regulation Of T Cell Proliferation (GO:0042102),,0.1303636598646058,0.0841931969958912,,,,,0,1
+Positive Regulation Of Urine Volume (GO:0035810),,0.0369319673888456,0.0067323898885916,,,,,1,1
+Positive Regulation Of Vasculature Development (GO:1904018),,0.1670617511166802,0.1313871063469724,,,,,0,1
+Potassium Ion Transport (GO:0006813),,0.1828446971152301,0.1523705809293584,,,,,0,1
+Protein Kinase A Signaling (GO:0010737),,0.0614200738522344,0.0213904560937906,,,,,0,1
+Protein Modification Process (GO:0036211),,0.6271936780429692,0.6239270443031621,,,,,0,1
+Protein Tyrosine Kinase Activity (GO:0004713),,,,,4.591127585270074e-08,8.068906731112155e-06,0.0561337328092996,1,1
+Purine Ribonucleoside Triphosphate Metabolic Process (GO:0009205),,0.0893328399434028,0.0423400439315086,,,,,0,1
+Purine Ribonucleotide Metabolic Process (GO:0009150),,0.1439278065814034,0.1074855044212984,,,,,0,1
+RNA Polymerase II-specific DNA-binding Transcription Factor Binding (GO:0061629),,,,,9.957455768073656e-05,0.0041177008264445,0.0237691331976627,1,1
+Regulation Of Actin Cytoskeleton Organization (GO:0032956),,0.150385585605453,0.1159222222375367,,,,,0,1
+Regulation Of Actin Filament Length (GO:0030832),,0.0464136420038519,0.0120868859385031,,,,,1,1
+Regulation Of Activated T Cell Proliferation (GO:0046006),,0.0898563530980608,0.0436349532899167,,,,,0,1
+Regulation Of Angiogenesis (GO:0045765),,0.0726345933158847,0.0310210242286591,,,,,0,1
+Regulation Of Apoptotic Cell Clearance (GO:2000425),,0.0410754350669526,0.0094131205361766,,,,,1,1
+Regulation Of Apoptotic Process (GO:0042981),,0.2700219238878543,0.2461137327102838,,,,,0,1
+Regulation Of Blood Circulation (GO:1903522),,0.0898563530980608,0.0449281765490304,,,,,0,1
+Regulation Of Canonical Wnt Signaling Pathway (GO:0060828),,0.2700219238878543,0.2450390854869364,,,,,0,1
+Regulation Of Cell Adhesion (GO:0030155),,0.2089085630179798,0.1773546654788057,,,,,0,1
+Regulation Of Cell Population Proliferation (GO:0042127),,0.651849627658786,0.651849627658786,,,,,0,1
+Regulation Of Cellular Component Size (GO:0032535),,0.1023245135259905,0.0564916585091406,,,,,0,1
+Regulation Of Cold-Induced Thermogenesis (GO:0120161),,0.210252231903499,0.1795904480842388,,,,,0,1
+Regulation Of Cysteine-Type Endopeptidase Activity Involved In Apoptotic Process (GO:0043281),,0.1439278065814034,0.1074855044212984,,,,,0,1
+Regulation Of Endopeptidase Activity (GO:0052548),,0.1326808869071022,0.0891449708907092,,,,,0,1
+Regulation Of Fibroblast Proliferation (GO:0048145),,0.1033990370682824,0.0603161049564981,,,,,0,1
+Regulation Of G Protein-Coupled Receptor Signaling Pathway (GO:0008277),,0.0248074300563776,0.0040053663111859,,,,,1,1
+Regulation Of GTPase Activity (GO:0043087),,0.2751487833327428,0.2522197180550142,,,,,0,1
+Regulation Of Gene Expression (GO:0010468),,0.4691105987681371,0.4544508925566328,,,,,0,1
+Regulation Of Heart Contraction (GO:0008016),,0.1326808869071022,0.0891449708907092,,,,,0,1
+Regulation Of Insulin-Like Growth Factor Receptor Signaling Pathway (GO:0043567),,0.063214937924063,0.0253518240632961,,,,,0,1
+Regulation Of Kinase Activity (GO:0043549),,0.1439278065814034,0.108695478928664,,,,,0,1
+Regulation Of Muscle Contraction (GO:0006937),,3.377108653853389e-08,3.5178215144306136e-10,,,,,1,1
+Regulation Of Muscle System Process (GO:0090257),,0.052457609799225,0.014753702756032,,,,,0,1
+Regulation Of Neurogenesis (GO:0050767),,0.0235274610605591,0.0036761657907123,,,,,1,1
+Regulation Of Nitric-Oxide Synthase Activity (GO:0050999),,0.0810403707657714,0.0371435032676452,,,,,0,1
+Regulation Of Osteoblast Proliferation (GO:0033688),,0.0614200738522344,0.0213904560937906,,,,,0,1
+Regulation Of Phagocytosis (GO:0050764),,0.1207442411915374,0.0754651507447108,,,,,0,1
+Regulation Of Programmed Cell Death (GO:0043067),,0.2611364814732812,0.2325746788121411,,,,,0,1
+Regulation Of Protein Kinase Activity (GO:0045859),,0.1798129060060123,0.1489075627862289,,,,,0,1
+Regulation Of Protein Phosphorylation (GO:0001932),,0.3192118292674967,0.3025862131598145,,,,,0,1
+Regulation Of Protein Secretion (GO:0050708),,0.1651519576200509,0.1290249668906648,,,,,0,1
+Regulation Of Signal Transduction (GO:0009966),,0.014961286312381,0.0021818542538889,,,,,1,1
+Regulation Of Small GTPase Mediated Signal Transduction (GO:0051056),,0.1798129060060123,0.1477501988024318,,,,,0,1
+Regulation Of Smooth Muscle Contraction (GO:0006940),,0.06400522928675,0.0266688455361458,,,,,0,1
+Regulation Of Striated Muscle Contraction (GO:0006942),,0.0001670646763507,7.83115670393965e-06,,,,,1,1
+Regulation Of Urine Volume (GO:0035809),,0.0439184593468579,0.0107508728609495,,,,,1,1
+Regulation Of Vascular Associated Smooth Muscle Cell Proliferation (GO:1904705),,0.0936916815433891,0.0487977508038484,,,,,0,1
+Regulation Of calcineurin-NFAT Signaling Cascade (GO:0070884),,0.0898563530980608,0.0449281765490304,,,,,0,1
+Renal Water Homeostasis (GO:0003091),,0.0609874542077024,0.0187409364492418,,,,,0,1
+Response To Calcium Ion (GO:0051592),,0.0409528670116584,0.0089584396588002,,,,,1,1
+Response To Cocaine (GO:0042220),,0.0378082039764889,0.0080736268908127,,,,,1,1
+Response To Copper Ion (GO:0046688),,0.0738386100133587,0.0319198157870248,,,,,0,1
+Response To Hydrogen Peroxide (GO:0042542),,0.1033990370682824,0.0603161049564981,,,,,0,1
+Response To Metal Ion (GO:0010038),,0.022247517584065,0.0033603021350931,,,,,1,1
+Response To Muscle Stretch (GO:0035994),,0.0609874542077024,0.0187409364492418,,,,,0,1
+Response To Retinoic Acid (GO:0032526),,0.1217046136848922,0.0779670181418841,,,,,0,1
+Response To UV (GO:0009411),,0.1632085592090115,0.1266566423028266,,,,,0,1
+Response To cAMP (GO:0051591),,0.0952096647507751,0.0500842507282723,,,,,0,1
+Sarcomere Organization (GO:0045214),,2.3467057149630634e-06,6.111212799382977e-08,,,,,1,1
+Second-Messenger-Mediated Signaling (GO:0019932),,0.1337898057987882,0.0928418711410691,,,,,0,1
+Signal Release (GO:0023061),,0.0505267270237923,0.0134211618656948,,,,,0,1
+Skeletal Muscle Contraction (GO:0003009),,6.441613168549727e-07,1.0065020575858948e-08,,,,,1,1
+Skeletal Muscle Organ Development (GO:0060538),,0.0914864478048297,0.046219715818065,,,,,0,1
+Skeletal Muscle Thin Filament Assembly (GO:0030240),,0.0378082039764889,0.0080736268908127,,,,,1,1
+Skeletal Muscle Tissue Development (GO:0007519),,0.1009618570118014,0.0552135155533288,,,,,0,1
+Skeletal Myofibril Assembly (GO:0014866),,0.0007221410256521,4.889496527853119e-05,,,,,1,1
+Skeletal System Development (GO:0001501),,0.0597982735848053,0.017129713787314,,,,,0,1
+Smooth Muscle Contraction (GO:0006939),,0.0609874542077024,0.0187409364492418,,,,,0,1
+Striated Muscle Contraction (GO:0006941),,2.217080803398643e-08,1.15472958510346e-10,,,,,1,1
+Striated Muscle Hypertrophy (GO:0014897),,0.0369319673888456,0.0067323898885916,,,,,1,1
+Supramolecular Fiber Organization (GO:0097435),,0.1124197475052216,0.0674241350053821,,,,,0,1
+Transforming Growth Factor Beta Binding (GO:0050431),,,,,1.5950669332611815e-06,0.0001325398012733,0.138820482893895,1,1
+Translation (GO:0006412),,0.2905336164886264,0.2723752654580872,,,,,0,1
+Transmembrane Receptor Protein Kinase Activity (GO:0019199),,,,,1.8853456795641008e-06,0.0001325398012733,0.0894050898469529,1,1
+Transmembrane Receptor Protein Tyrosine Kinase Activity (GO:0004714),,,,,4.3449611189646886e-10,1.0181692222107255e-07,0.0967367653088653,1,1
+Ventricular Cardiac Muscle Tissue Development (GO:0003229),,0.0055095305782902,0.0005165184917147,,,,,1,1
+Ventricular Cardiac Muscle Tissue Morphogenesis (GO:0055010),,0.0078629732870072,0.0009030432609384,,,,,1,1
+Voltage-Gated Calcium Channel Activity (GO:0005245),,,,,1.942377582397715e-05,0.0011379095336879,0.0592524935922988,1,1
+Voltage-Gated Monoatomic Cation Channel Activity (GO:0022843),,,,,0.0001249062029684,0.004621529509834,0.046877130563271,1,1
+actin cytoskeleton organization,1.222903607771236e-05,,,,,,,1,1
+actin filament-based process,2.3075991308829664e-06,,,,,,,1,1
+actin-myosin filament sliding,0.0014999573737949,,,,,,,1,1
+actomyosin structure organization,2.017584368394514e-07,,,,,,,1,1
+anatomical structure formation involved in morphogenesis,0.0001115966557078,,,,,,,1,1
+anatomical structure morphogenesis,0.0001349630397406,,,,,,,1,1
+animal organ development,0.0056413429363395,,,,,,,1,1
+animal organ morphogenesis,0.0040856813516593,,,,,,,1,1
+cGMP-mediated Signaling (GO:0019934),,0.0614200738522344,0.0227126314766075,,,,,0,1
+cardiac cell development,0.0058720339207375,,,,,,,1,1
+cardiac muscle cell development,0.0043954106545569,,,,,,,1,1
+cardiac muscle cell differentiation,0.0199746613264022,,,,,,,1,1
+cardiac muscle contraction,0.0428336168938794,,,,,,,1,1
+cardiac muscle tissue development,1.7129362643375647e-05,,,,,,,1,1
+cardiac muscle tissue morphogenesis,0.0012873033549311,,,,,,,1,1
+cellular anatomical entity morphogenesis,4.302670937685478e-07,,,,,,,1,1
+cellular component assembly involved in morphogenesis,4.302670937685478e-07,,,,,,,1,1
+circulatory system development,4.914664760928463e-06,,,,,,,1,1
+cytoskeleton organization,0.0013015024627963,,,,,,,1,1
+heart contraction,0.017560981315075,,,,,,,1,1
+heart development,0.0007150566865913,,,,,,,1,1
+heart process,0.0209206415611341,,,,,,,1,1
+membraneless organelle assembly,0.0010802727307167,,,,,,,1,1
+multicellular organismal movement,1.912720557280286e-05,,,,,,,1,1
+multicellular organismal process,0.0033396230208002,,,,,,,1,1
+muscle cell development,2.129221984399088e-09,,,,,,,1,1
+muscle cell differentiation,1.2601184703498662e-06,,,,,,,1,1
+muscle contraction,2.2470263169298603e-10,,,,,,,1,1
+muscle organ development,0.0003581616427151,,,,,,,1,1
+muscle organ morphogenesis,6.157397118636982e-05,,,,,,,1,1
+muscle structure development,3.658605773841371e-07,,,,,,,1,1
+muscle system process,6.880689576415983e-11,,,,,,,1,1
+muscle tissue development,2.1319852370410983e-06,,,,,,,1,1
+muscle tissue morphogenesis,3.553669026540186e-05,,,,,,,1,1
+musculoskeletal movement,1.6170258440687704e-05,,,,,,,1,1
+myofibril assembly,6.0984919994507834e-09,,,,,,,1,1
+myosin filament assembly,0.0142075434994835,,,,,,,1,1
+myosin filament organization,0.0354648251745364,,,,,,,1,1
+neuromuscular process,0.0034730234481589,,,,,,,1,1
+regulation of multicellular organismal process,0.0033516484283932,,,,,,,1,1
+regulation of muscle contraction,1.5093531763533663e-06,,,,,,,1,1
+regulation of muscle system process,3.9952086435922003e-07,,,,,,,1,1
+regulation of striated muscle contraction,0.009493043470501,,,,,,,1,1
+regulation of system process,1.9085222397355653e-05,,,,,,,1,1
+sarcomere organization,7.00738901594027e-06,,,,,,,1,1
+skeletal muscle contraction,4.5911139574663404e-06,,,,,,,1,1
+skeletal muscle myosin thick filament assembly,0.0071091817638069,,,,,,,1,1
+striated muscle cell development,5.635413520326683e-10,,,,,,,1,1
+striated muscle cell differentiation,9.123340130074486e-08,,,,,,,1,1
+striated muscle contraction,8.059996200905036e-08,,,,,,,1,1
+striated muscle myosin thick filament assembly,0.0071091817638069,,,,,,,1,1
+striated muscle tissue development,1.3445689373525066e-06,,,,,,,1,1
+supramolecular fiber organization,5.934716816149914e-05,,,,,,,1,1
+system process,1.1180491289332673e-06,,,,,,,1,1
+tissue development,0.0003095360854703,,,,,,,1,1
+tissue morphogenesis,0.0114460674679952,,,,,,,1,1
+transition between fast and slow fiber,0.0496129782869579,,,,,,,1,1
+twitch skeletal muscle contraction,0.0354648251745364,,,,,,,1,1
+ventricular cardiac muscle tissue morphogenesis,0.0423410535268816,,,,,,,1,1
+voluntary skeletal muscle contraction,0.0354648251745364,,,,,,,1,1

@@ -1,0 +1,4 @@
+source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+HPA,HPA:0640691,Endometrium; smooth muscle cells[≥Low],0.001032334470223714,True,Endometrium; smooth muscle cells[≥Low],65,21,4,10995,0.19047619047619047,0.06153846153846154,query_1,['HPA:0640000']
+HPA,HPA:0640000,Endometrium,0.011699197981000086,True,Endometrium,120,21,4,10995,0.19047619047619047,0.03333333333333333,query_1,['HPA:0000000']
+HPA,HPA:0640692,Endometrium; smooth muscle cells[≥Medium],0.015426699638922667,True,Endometrium; smooth muscle cells[≥Medium],47,21,3,10995,0.14285714285714285,0.06382978723404255,query_1,['HPA:0640691']
