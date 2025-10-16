@@ -1,0 +1,5 @@
+comparison,method_a,method_b,dof,chi2,p,cramers_v,n,q
+Spectral vs refinebio_disease (ngt vs t2d),Spectral,refinebio_disease (ngt vs t2d),4,57.694152923538226,8.846585348359255e-12,0.6831094383069896,116,3.538634139343702e-11
+KMeans vs refinebio_disease (ngt vs t2d),KMeans,refinebio_disease (ngt vs t2d),4,44.35190615835777,5.42180070510784e-09,0.5921234619640943,116,7.229067606810453e-09
+GMM vs refinebio_disease (ngt vs t2d),GMM,refinebio_disease (ngt vs t2d),4,44.35190615835777,5.42180070510784e-09,0.5921234619640943,116,7.229067606810453e-09
+Agglomerative vs refinebio_disease (ngt vs t2d),Agglomerative,refinebio_disease (ngt vs t2d),4,21.349425287356325,0.0002699463146441864,0.3880380081496555,116,0.0002699463146441864
