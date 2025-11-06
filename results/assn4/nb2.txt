@@ -1,0 +1,10 @@
+Naïve Bayes Accuracy: 0.7083333333333334 
+
+              precision    recall  f1-score   support
+
+         ngt       0.63      1.00      0.77        12
+         t2d       1.00      0.42      0.59        12
+
+    accuracy                           0.71        24
+   macro avg       0.82      0.71      0.68        24
+weighted avg       0.82      0.71      0.68        24
